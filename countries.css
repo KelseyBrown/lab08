@@ -1,0 +1,45 @@
+.stamp {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-style: dashed;
+    border-color: darkseagreen;
+    box-shadow: 10px 5px 10px grey;
+    background-size: auto 100%;
+   
+
+}
+
+body {
+    background-color: beige;
+}
+#tanzania { 
+ background-image: url(Tanzaniaflag.gif), url(Tanzania.jpg);
+     background-position: top right, top center;
+    background-size: 100px, auto 100%;
+    background-repeat: no-repeat; 
+    
+}
+#canada { 
+background-image: url(canadaflag.gif), url(Canada.jpg);
+    background-position: top right, top center;
+    background-size: 100px, auto 100%;
+    background-repeat: no-repeat; 
+      
+}
+#china { 
+background-image: url(Chinaflag.gif), url(China.jpg);
+      background-position: top right, top center;
+    background-size: 100px, auto 100%;
+    background-repeat: no-repeat; 
+     
+}
+#france { 
+    background-image: url(Franceflag.gif), url(France.jpg);
+      background-position: top right, top center;
+    background-size: 100px, auto 100%;
+    background-repeat: no-repeat; 
+}
+
